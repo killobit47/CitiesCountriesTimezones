@@ -1,0 +1,4600 @@
+[
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "AF",
+                "city" : "Kabul",
+                "zoneName" : "Asia/Kabul"
+            }
+        ],
+        "capital" : "Kabul",
+        "alpha2Code" : "AF",
+        "subregion" : "Southern Asia",
+        "countryName" : "Afghanistan",
+        "alpha3Code" : "AFG"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "AX",
+                "city" : "Mariehamn",
+                "zoneName" : "Europe/Mariehamn"
+            }
+        ],
+        "capital" : "Mariehamn",
+        "alpha2Code" : "AX",
+        "subregion" : "Northern Europe",
+        "countryName" : "Åland Islands",
+        "alpha3Code" : "ALA"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "AL",
+                "city" : "Tirane",
+                "zoneName" : "Europe/Tirane"
+            }
+        ],
+        "capital" : "Tirana",
+        "alpha2Code" : "AL",
+        "subregion" : "Southern Europe",
+        "countryName" : "Albania",
+        "alpha3Code" : "ALB"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "DZ",
+                "city" : "Algiers",
+                "zoneName" : "Africa/Algiers"
+            }
+        ],
+        "capital" : "Algiers",
+        "alpha2Code" : "DZ",
+        "subregion" : "Northern Africa",
+        "countryName" : "Algeria",
+        "alpha3Code" : "DZA"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "AS",
+                "city" : "Pago Pago",
+                "zoneName" : "Pacific/Pago_Pago"
+            }
+        ],
+        "capital" : "Pago Pago",
+        "alpha2Code" : "AS",
+        "subregion" : "Polynesia",
+        "countryName" : "American Samoa",
+        "alpha3Code" : "ASM"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "AD",
+                "city" : "Andorra",
+                "zoneName" : "Europe/Andorra"
+            }
+        ],
+        "capital" : "Andorra la Vella",
+        "alpha2Code" : "AD",
+        "subregion" : "Southern Europe",
+        "countryName" : "Andorra",
+        "alpha3Code" : "AND"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "AO",
+                "city" : "Luanda",
+                "zoneName" : "Africa/Luanda"
+            }
+        ],
+        "capital" : "Luanda",
+        "alpha2Code" : "AO",
+        "subregion" : "Middle Africa",
+        "countryName" : "Angola",
+        "alpha3Code" : "AGO"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "AI",
+                "city" : "Anguilla",
+                "zoneName" : "America/Anguilla"
+            }
+        ],
+        "capital" : "The Valley",
+        "alpha2Code" : "AI",
+        "subregion" : "Caribbean",
+        "countryName" : "Anguilla",
+        "alpha3Code" : "AIA"
+    },
+    {
+        "region" : "Polar",
+        "timezones" : [
+            {
+                "countryCode" : "AQ",
+                "city" : "Casey",
+                "zoneName" : "Antarctica/Casey"
+            },
+            {
+                "countryCode" : "AQ",
+                "city" : "Davis",
+                "zoneName" : "Antarctica/Davis"
+            },
+            {
+                "countryCode" : "AQ",
+                "city" : "DumontDUrville",
+                "zoneName" : "Antarctica/DumontDUrville"
+            },
+            {
+                "countryCode" : "AQ",
+                "city" : "Mawson",
+                "zoneName" : "Antarctica/Mawson"
+            },
+            {
+                "countryCode" : "AQ",
+                "city" : "McMurdo",
+                "zoneName" : "Antarctica/McMurdo"
+            },
+            {
+                "countryCode" : "AQ",
+                "city" : "Palmer",
+                "zoneName" : "Antarctica/Palmer"
+            },
+            {
+                "countryCode" : "AQ",
+                "city" : "Rothera",
+                "zoneName" : "Antarctica/Rothera"
+            },
+            {
+                "countryCode" : "AQ",
+                "city" : "South Pole",
+                "zoneName" : "Antarctica/South_Pole"
+            },
+            {
+                "countryCode" : "AQ",
+                "city" : "Syowa",
+                "zoneName" : "Antarctica/Syowa"
+            },
+            {
+                "countryCode" : "AQ",
+                "city" : "Vostok",
+                "zoneName" : "Antarctica/Vostok"
+            }
+        ],
+        "capital" : "",
+        "alpha2Code" : "AQ",
+        "subregion" : "",
+        "countryName" : "Antarctica",
+        "alpha3Code" : "ATA"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "AG",
+                "city" : "Antigua",
+                "zoneName" : "America/Antigua"
+            }
+        ],
+        "capital" : "Saint John's",
+        "alpha2Code" : "AG",
+        "subregion" : "Caribbean",
+        "countryName" : "Antigua and Barbuda",
+        "alpha3Code" : "ATG"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "AR",
+                "city" : "Buenos Aires",
+                "zoneName" : "America/Argentina/Buenos_Aires"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "Catamarca",
+                "zoneName" : "America/Argentina/Catamarca"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "Cordoba",
+                "zoneName" : "America/Argentina/Cordoba"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "Jujuy",
+                "zoneName" : "America/Argentina/Jujuy"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "La Rioja",
+                "zoneName" : "America/Argentina/La_Rioja"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "Mendoza",
+                "zoneName" : "America/Argentina/Mendoza"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "Rio Gallegos",
+                "zoneName" : "America/Argentina/Rio_Gallegos"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "Salta",
+                "zoneName" : "America/Argentina/Salta"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "San Juan",
+                "zoneName" : "America/Argentina/San_Juan"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "San Luis",
+                "zoneName" : "America/Argentina/San_Luis"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "Tucuman",
+                "zoneName" : "America/Argentina/Tucuman"
+            },
+            {
+                "countryCode" : "AR",
+                "city" : "Ushuaia",
+                "zoneName" : "America/Argentina/Ushuaia"
+            }
+        ],
+        "capital" : "Buenos Aires",
+        "alpha2Code" : "AR",
+        "subregion" : "South America",
+        "countryName" : "Argentina",
+        "alpha3Code" : "ARG"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "AM",
+                "city" : "Yerevan",
+                "zoneName" : "Asia/Yerevan"
+            }
+        ],
+        "capital" : "Yerevan",
+        "alpha2Code" : "AM",
+        "subregion" : "Western Asia",
+        "countryName" : "Armenia",
+        "alpha3Code" : "ARM"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "AW",
+                "city" : "Aruba",
+                "zoneName" : "America/Aruba"
+            }
+        ],
+        "capital" : "Oranjestad",
+        "alpha2Code" : "AW",
+        "subregion" : "Caribbean",
+        "countryName" : "Aruba",
+        "alpha3Code" : "ABW"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "AU",
+                "city" : "Macquarie",
+                "zoneName" : "Antarctica/Macquarie"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Adelaide",
+                "zoneName" : "Australia/Adelaide"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Brisbane",
+                "zoneName" : "Australia/Brisbane"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Broken Hill",
+                "zoneName" : "Australia/Broken_Hill"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Currie",
+                "zoneName" : "Australia/Currie"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Darwin",
+                "zoneName" : "Australia/Darwin"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Eucla",
+                "zoneName" : "Australia/Eucla"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Hobart",
+                "zoneName" : "Australia/Hobart"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Lindeman",
+                "zoneName" : "Australia/Lindeman"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Lord Howe",
+                "zoneName" : "Australia/Lord_Howe"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Melbourne",
+                "zoneName" : "Australia/Melbourne"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Perth",
+                "zoneName" : "Australia/Perth"
+            },
+            {
+                "countryCode" : "AU",
+                "city" : "Sydney",
+                "zoneName" : "Australia/Sydney"
+            }
+        ],
+        "capital" : "Canberra",
+        "alpha2Code" : "AU",
+        "subregion" : "Australia and New Zealand",
+        "countryName" : "Australia",
+        "alpha3Code" : "AUS"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "AT",
+                "city" : "Vienna",
+                "zoneName" : "Europe/Vienna"
+            }
+        ],
+        "capital" : "Vienna",
+        "alpha2Code" : "AT",
+        "subregion" : "Western Europe",
+        "countryName" : "Austria",
+        "alpha3Code" : "AUT"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "AZ",
+                "city" : "Baku",
+                "zoneName" : "Asia/Baku"
+            }
+        ],
+        "capital" : "Baku",
+        "alpha2Code" : "AZ",
+        "subregion" : "Western Asia",
+        "countryName" : "Azerbaijan",
+        "alpha3Code" : "AZE"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "BS",
+                "city" : "Nassau",
+                "zoneName" : "America/Nassau"
+            }
+        ],
+        "capital" : "Nassau",
+        "alpha2Code" : "BS",
+        "subregion" : "Caribbean",
+        "countryName" : "Bahamas",
+        "alpha3Code" : "BHS"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "BH",
+                "city" : "Bahrain",
+                "zoneName" : "Asia/Bahrain"
+            }
+        ],
+        "capital" : "Manama",
+        "alpha2Code" : "BH",
+        "subregion" : "Western Asia",
+        "countryName" : "Bahrain",
+        "alpha3Code" : "BHR"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "BD",
+                "city" : "Dhaka",
+                "zoneName" : "Asia/Dhaka"
+            }
+        ],
+        "capital" : "Dhaka",
+        "alpha2Code" : "BD",
+        "subregion" : "Southern Asia",
+        "countryName" : "Bangladesh",
+        "alpha3Code" : "BGD"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "BB",
+                "city" : "Barbados",
+                "zoneName" : "America/Barbados"
+            }
+        ],
+        "capital" : "Bridgetown",
+        "alpha2Code" : "BB",
+        "subregion" : "Caribbean",
+        "countryName" : "Barbados",
+        "alpha3Code" : "BRB"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "BY",
+                "city" : "Minsk",
+                "zoneName" : "Europe/Minsk"
+            }
+        ],
+        "capital" : "Minsk",
+        "alpha2Code" : "BY",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Belarus",
+        "alpha3Code" : "BLR"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "BE",
+                "city" : "Brussels",
+                "zoneName" : "Europe/Brussels"
+            }
+        ],
+        "capital" : "Brussels",
+        "alpha2Code" : "BE",
+        "subregion" : "Western Europe",
+        "countryName" : "Belgium",
+        "alpha3Code" : "BEL"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "BZ",
+                "city" : "Belize",
+                "zoneName" : "America/Belize"
+            }
+        ],
+        "capital" : "Belmopan",
+        "alpha2Code" : "BZ",
+        "subregion" : "Central America",
+        "countryName" : "Belize",
+        "alpha3Code" : "BLZ"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "BJ",
+                "city" : "Porto-Novo",
+                "zoneName" : "Africa/Porto-Novo"
+            }
+        ],
+        "capital" : "Porto-Novo",
+        "alpha2Code" : "BJ",
+        "subregion" : "Western Africa",
+        "countryName" : "Benin",
+        "alpha3Code" : "BEN"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "BM",
+                "city" : "Bermuda",
+                "zoneName" : "Atlantic/Bermuda"
+            }
+        ],
+        "capital" : "Hamilton",
+        "alpha2Code" : "BM",
+        "subregion" : "Northern America",
+        "countryName" : "Bermuda",
+        "alpha3Code" : "BMU"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "BT",
+                "city" : "Thimphu",
+                "zoneName" : "Asia/Thimphu"
+            }
+        ],
+        "capital" : "Thimphu",
+        "alpha2Code" : "BT",
+        "subregion" : "Southern Asia",
+        "countryName" : "Bhutan",
+        "alpha3Code" : "BTN"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "BO",
+                "city" : "La Paz",
+                "zoneName" : "America/La_Paz"
+            }
+        ],
+        "capital" : "Sucre",
+        "alpha2Code" : "BO",
+        "subregion" : "South America",
+        "countryName" : "Bolivia (Plurinational State of)",
+        "alpha3Code" : "BOL"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "BQ",
+                "city" : "Kralendijk",
+                "zoneName" : "America/Kralendijk"
+            }
+        ],
+        "capital" : "Kralendijk",
+        "alpha2Code" : "BQ",
+        "subregion" : "Caribbean",
+        "countryName" : "Bonaire, Sint Eustatius and Saba",
+        "alpha3Code" : "BES"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "BA",
+                "city" : "Sarajevo",
+                "zoneName" : "Europe/Sarajevo"
+            }
+        ],
+        "capital" : "Sarajevo",
+        "alpha2Code" : "BA",
+        "subregion" : "Southern Europe",
+        "countryName" : "Bosnia and Herzegovina",
+        "alpha3Code" : "BIH"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "BW",
+                "city" : "Gaborone",
+                "zoneName" : "Africa/Gaborone"
+            }
+        ],
+        "capital" : "Gaborone",
+        "alpha2Code" : "BW",
+        "subregion" : "Southern Africa",
+        "countryName" : "Botswana",
+        "alpha3Code" : "BWA"
+    },
+    {
+        "region" : "",
+        "timezones" : [
+
+        ],
+        "capital" : "",
+        "alpha2Code" : "BV",
+        "subregion" : "",
+        "countryName" : "Bouvet Island",
+        "alpha3Code" : "BVT"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "BR",
+                "city" : "Araguaina",
+                "zoneName" : "America/Araguaina"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Bahia",
+                "zoneName" : "America/Bahia"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Belem",
+                "zoneName" : "America/Belem"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Boa Vista",
+                "zoneName" : "America/Boa_Vista"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Campo Grande",
+                "zoneName" : "America/Campo_Grande"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Cuiaba",
+                "zoneName" : "America/Cuiaba"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Eirunepe",
+                "zoneName" : "America/Eirunepe"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Fortaleza",
+                "zoneName" : "America/Fortaleza"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Maceio",
+                "zoneName" : "America/Maceio"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Manaus",
+                "zoneName" : "America/Manaus"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Noronha",
+                "zoneName" : "America/Noronha"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Porto Velho",
+                "zoneName" : "America/Porto_Velho"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Recife",
+                "zoneName" : "America/Recife"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Rio Branco",
+                "zoneName" : "America/Rio_Branco"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Santarem",
+                "zoneName" : "America/Santarem"
+            },
+            {
+                "countryCode" : "BR",
+                "city" : "Sao Paulo",
+                "zoneName" : "America/Sao_Paulo"
+            }
+        ],
+        "capital" : "Brasília",
+        "alpha2Code" : "BR",
+        "subregion" : "South America",
+        "countryName" : "Brazil",
+        "alpha3Code" : "BRA"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "IO",
+                "city" : "Chagos",
+                "zoneName" : "Indian/Chagos"
+            }
+        ],
+        "capital" : "Diego Garcia",
+        "alpha2Code" : "IO",
+        "subregion" : "Eastern Africa",
+        "countryName" : "British Indian Ocean Territory",
+        "alpha3Code" : "IOT"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "UM",
+                "city" : "Johnston",
+                "zoneName" : "Pacific/Johnston"
+            },
+            {
+                "countryCode" : "UM",
+                "city" : "Midway",
+                "zoneName" : "Pacific/Midway"
+            },
+            {
+                "countryCode" : "UM",
+                "city" : "Wake",
+                "zoneName" : "Pacific/Wake"
+            }
+        ],
+        "capital" : "",
+        "alpha2Code" : "UM",
+        "subregion" : "Northern America",
+        "countryName" : "United States Minor Outlying Islands",
+        "alpha3Code" : "UMI"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "VG",
+                "city" : "Tortola",
+                "zoneName" : "America/Tortola"
+            }
+        ],
+        "capital" : "Road Town",
+        "alpha2Code" : "VG",
+        "subregion" : "Caribbean",
+        "countryName" : "Virgin Islands (British)",
+        "alpha3Code" : "VGB"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "VI",
+                "city" : "St Thomas",
+                "zoneName" : "America/St_Thomas"
+            }
+        ],
+        "capital" : "Charlotte Amalie",
+        "alpha2Code" : "VI",
+        "subregion" : "Caribbean",
+        "countryName" : "Virgin Islands (U.S.)",
+        "alpha3Code" : "VIR"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "BN",
+                "city" : "Brunei",
+                "zoneName" : "Asia/Brunei"
+            }
+        ],
+        "capital" : "Bandar Seri Begawan",
+        "alpha2Code" : "BN",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Brunei Darussalam",
+        "alpha3Code" : "BRN"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "BG",
+                "city" : "Sofia",
+                "zoneName" : "Europe/Sofia"
+            }
+        ],
+        "capital" : "Sofia",
+        "alpha2Code" : "BG",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Bulgaria",
+        "alpha3Code" : "BGR"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "BF",
+                "city" : "Ouagadougou",
+                "zoneName" : "Africa/Ouagadougou"
+            }
+        ],
+        "capital" : "Ouagadougou",
+        "alpha2Code" : "BF",
+        "subregion" : "Western Africa",
+        "countryName" : "Burkina Faso",
+        "alpha3Code" : "BFA"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "BI",
+                "city" : "Bujumbura",
+                "zoneName" : "Africa/Bujumbura"
+            }
+        ],
+        "capital" : "Bujumbura",
+        "alpha2Code" : "BI",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Burundi",
+        "alpha3Code" : "BDI"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "KH",
+                "city" : "Phnom Penh",
+                "zoneName" : "Asia/Phnom_Penh"
+            }
+        ],
+        "capital" : "Phnom Penh",
+        "alpha2Code" : "KH",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Cambodia",
+        "alpha3Code" : "KHM"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "CM",
+                "city" : "Douala",
+                "zoneName" : "Africa/Douala"
+            }
+        ],
+        "capital" : "Yaoundé",
+        "alpha2Code" : "CM",
+        "subregion" : "Middle Africa",
+        "countryName" : "Cameroon",
+        "alpha3Code" : "CMR"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "CA",
+                "city" : "Atikokan",
+                "zoneName" : "America/Atikokan"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Blanc-Sablon",
+                "zoneName" : "America/Blanc-Sablon"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Cambridge Bay",
+                "zoneName" : "America/Cambridge_Bay"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Creston",
+                "zoneName" : "America/Creston"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Dawson",
+                "zoneName" : "America/Dawson"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Dawson Creek",
+                "zoneName" : "America/Dawson_Creek"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Edmonton",
+                "zoneName" : "America/Edmonton"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Glace Bay",
+                "zoneName" : "America/Glace_Bay"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Goose Bay",
+                "zoneName" : "America/Goose_Bay"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Halifax",
+                "zoneName" : "America/Halifax"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Inuvik",
+                "zoneName" : "America/Inuvik"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Iqaluit",
+                "zoneName" : "America/Iqaluit"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Moncton",
+                "zoneName" : "America/Moncton"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Montreal",
+                "zoneName" : "America/Montreal"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Nipigon",
+                "zoneName" : "America/Nipigon"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Pangnirtung",
+                "zoneName" : "America/Pangnirtung"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Rainy River",
+                "zoneName" : "America/Rainy_River"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Rankin Inlet",
+                "zoneName" : "America/Rankin_Inlet"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Regina",
+                "zoneName" : "America/Regina"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Resolute",
+                "zoneName" : "America/Resolute"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "St Johns",
+                "zoneName" : "America/St_Johns"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Swift Current",
+                "zoneName" : "America/Swift_Current"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Thunder Bay",
+                "zoneName" : "America/Thunder_Bay"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Toronto",
+                "zoneName" : "America/Toronto"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Vancouver",
+                "zoneName" : "America/Vancouver"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Whitehorse",
+                "zoneName" : "America/Whitehorse"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Winnipeg",
+                "zoneName" : "America/Winnipeg"
+            },
+            {
+                "countryCode" : "CA",
+                "city" : "Yellowknife",
+                "zoneName" : "America/Yellowknife"
+            }
+        ],
+        "capital" : "Ottawa",
+        "alpha2Code" : "CA",
+        "subregion" : "Northern America",
+        "countryName" : "Canada",
+        "alpha3Code" : "CAN"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "CV",
+                "city" : "Cape Verde",
+                "zoneName" : "Atlantic/Cape_Verde"
+            }
+        ],
+        "capital" : "Praia",
+        "alpha2Code" : "CV",
+        "subregion" : "Western Africa",
+        "countryName" : "Cabo Verde",
+        "alpha3Code" : "CPV"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "KY",
+                "city" : "Cayman",
+                "zoneName" : "America/Cayman"
+            }
+        ],
+        "capital" : "George Town",
+        "alpha2Code" : "KY",
+        "subregion" : "Caribbean",
+        "countryName" : "Cayman Islands",
+        "alpha3Code" : "CYM"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "CF",
+                "city" : "Bangui",
+                "zoneName" : "Africa/Bangui"
+            }
+        ],
+        "capital" : "Bangui",
+        "alpha2Code" : "CF",
+        "subregion" : "Middle Africa",
+        "countryName" : "Central African Republic",
+        "alpha3Code" : "CAF"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "TD",
+                "city" : "Ndjamena",
+                "zoneName" : "Africa/Ndjamena"
+            }
+        ],
+        "capital" : "N'Djamena",
+        "alpha2Code" : "TD",
+        "subregion" : "Middle Africa",
+        "countryName" : "Chad",
+        "alpha3Code" : "TCD"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "CL",
+                "city" : "Santiago",
+                "zoneName" : "America/Santiago"
+            },
+            {
+                "countryCode" : "CL",
+                "city" : "Easter",
+                "zoneName" : "Pacific/Easter"
+            }
+        ],
+        "capital" : "Santiago",
+        "alpha2Code" : "CL",
+        "subregion" : "South America",
+        "countryName" : "Chile",
+        "alpha3Code" : "CHL"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "CN",
+                "city" : "Chongqing",
+                "zoneName" : "Asia/Chongqing"
+            },
+            {
+                "countryCode" : "CN",
+                "city" : "Harbin",
+                "zoneName" : "Asia/Harbin"
+            },
+            {
+                "countryCode" : "CN",
+                "city" : "Kashgar",
+                "zoneName" : "Asia/Kashgar"
+            },
+            {
+                "countryCode" : "CN",
+                "city" : "Shanghai",
+                "zoneName" : "Asia/Shanghai"
+            },
+            {
+                "countryCode" : "CN",
+                "city" : "Urumqi",
+                "zoneName" : "Asia/Urumqi"
+            }
+        ],
+        "capital" : "Beijing",
+        "alpha2Code" : "CN",
+        "subregion" : "Eastern Asia",
+        "countryName" : "China",
+        "alpha3Code" : "CHN"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "CX",
+                "city" : "Christmas",
+                "zoneName" : "Indian/Christmas"
+            }
+        ],
+        "capital" : "Flying Fish Cove",
+        "alpha2Code" : "CX",
+        "subregion" : "Australia and New Zealand",
+        "countryName" : "Christmas Island",
+        "alpha3Code" : "CXR"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "CC",
+                "city" : "Cocos",
+                "zoneName" : "Indian/Cocos"
+            }
+        ],
+        "capital" : "West Island",
+        "alpha2Code" : "CC",
+        "subregion" : "Australia and New Zealand",
+        "countryName" : "Cocos (Keeling) Islands",
+        "alpha3Code" : "CCK"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "CO",
+                "city" : "Bogota",
+                "zoneName" : "America/Bogota"
+            }
+        ],
+        "capital" : "Bogotá",
+        "alpha2Code" : "CO",
+        "subregion" : "South America",
+        "countryName" : "Colombia",
+        "alpha3Code" : "COL"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "KM",
+                "city" : "Comoro",
+                "zoneName" : "Indian/Comoro"
+            }
+        ],
+        "capital" : "Moroni",
+        "alpha2Code" : "KM",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Comoros",
+        "alpha3Code" : "COM"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "CG",
+                "city" : "Brazzaville",
+                "zoneName" : "Africa/Brazzaville"
+            }
+        ],
+        "capital" : "Brazzaville",
+        "alpha2Code" : "CG",
+        "subregion" : "Middle Africa",
+        "countryName" : "Congo",
+        "alpha3Code" : "COG"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "CD",
+                "city" : "Kinshasa",
+                "zoneName" : "Africa/Kinshasa"
+            },
+            {
+                "countryCode" : "CD",
+                "city" : "Lubumbashi",
+                "zoneName" : "Africa/Lubumbashi"
+            }
+        ],
+        "capital" : "Kinshasa",
+        "alpha2Code" : "CD",
+        "subregion" : "Middle Africa",
+        "countryName" : "Congo (Democratic Republic of the)",
+        "alpha3Code" : "COD"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "CK",
+                "city" : "Rarotonga",
+                "zoneName" : "Pacific/Rarotonga"
+            }
+        ],
+        "capital" : "Avarua",
+        "alpha2Code" : "CK",
+        "subregion" : "Polynesia",
+        "countryName" : "Cook Islands",
+        "alpha3Code" : "COK"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "CR",
+                "city" : "Costa Rica",
+                "zoneName" : "America/Costa_Rica"
+            }
+        ],
+        "capital" : "San José",
+        "alpha2Code" : "CR",
+        "subregion" : "Central America",
+        "countryName" : "Costa Rica",
+        "alpha3Code" : "CRI"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "HR",
+                "city" : "Zagreb",
+                "zoneName" : "Europe/Zagreb"
+            }
+        ],
+        "capital" : "Zagreb",
+        "alpha2Code" : "HR",
+        "subregion" : "Southern Europe",
+        "countryName" : "Croatia",
+        "alpha3Code" : "HRV"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "CU",
+                "city" : "Havana",
+                "zoneName" : "America/Havana"
+            }
+        ],
+        "capital" : "Havana",
+        "alpha2Code" : "CU",
+        "subregion" : "Caribbean",
+        "countryName" : "Cuba",
+        "alpha3Code" : "CUB"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "CW",
+                "city" : "Curacao",
+                "zoneName" : "America/Curacao"
+            }
+        ],
+        "capital" : "Willemstad",
+        "alpha2Code" : "CW",
+        "subregion" : "Caribbean",
+        "countryName" : "Curaçao",
+        "alpha3Code" : "CUW"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "CY",
+                "city" : "Nicosia",
+                "zoneName" : "Asia/Nicosia"
+            }
+        ],
+        "capital" : "Nicosia",
+        "alpha2Code" : "CY",
+        "subregion" : "Southern Europe",
+        "countryName" : "Cyprus",
+        "alpha3Code" : "CYP"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "CZ",
+                "city" : "Prague",
+                "zoneName" : "Europe/Prague"
+            }
+        ],
+        "capital" : "Prague",
+        "alpha2Code" : "CZ",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Czech Republic",
+        "alpha3Code" : "CZE"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "DK",
+                "city" : "Copenhagen",
+                "zoneName" : "Europe/Copenhagen"
+            }
+        ],
+        "capital" : "Copenhagen",
+        "alpha2Code" : "DK",
+        "subregion" : "Northern Europe",
+        "countryName" : "Denmark",
+        "alpha3Code" : "DNK"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "DJ",
+                "city" : "Djibouti",
+                "zoneName" : "Africa/Djibouti"
+            }
+        ],
+        "capital" : "Djibouti",
+        "alpha2Code" : "DJ",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Djibouti",
+        "alpha3Code" : "DJI"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "DM",
+                "city" : "Dominica",
+                "zoneName" : "America/Dominica"
+            }
+        ],
+        "capital" : "Roseau",
+        "alpha2Code" : "DM",
+        "subregion" : "Caribbean",
+        "countryName" : "Dominica",
+        "alpha3Code" : "DMA"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "DO",
+                "city" : "Santo Domingo",
+                "zoneName" : "America/Santo_Domingo"
+            }
+        ],
+        "capital" : "Santo Domingo",
+        "alpha2Code" : "DO",
+        "subregion" : "Caribbean",
+        "countryName" : "Dominican Republic",
+        "alpha3Code" : "DOM"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "EC",
+                "city" : "Guayaquil",
+                "zoneName" : "America/Guayaquil"
+            },
+            {
+                "countryCode" : "EC",
+                "city" : "Galapagos",
+                "zoneName" : "Pacific/Galapagos"
+            }
+        ],
+        "capital" : "Quito",
+        "alpha2Code" : "EC",
+        "subregion" : "South America",
+        "countryName" : "Ecuador",
+        "alpha3Code" : "ECU"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "EG",
+                "city" : "Cairo",
+                "zoneName" : "Africa/Cairo"
+            }
+        ],
+        "capital" : "Cairo",
+        "alpha2Code" : "EG",
+        "subregion" : "Northern Africa",
+        "countryName" : "Egypt",
+        "alpha3Code" : "EGY"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "SV",
+                "city" : "El Salvador",
+                "zoneName" : "America/El_Salvador"
+            }
+        ],
+        "capital" : "San Salvador",
+        "alpha2Code" : "SV",
+        "subregion" : "Central America",
+        "countryName" : "El Salvador",
+        "alpha3Code" : "SLV"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "GQ",
+                "city" : "Malabo",
+                "zoneName" : "Africa/Malabo"
+            }
+        ],
+        "capital" : "Malabo",
+        "alpha2Code" : "GQ",
+        "subregion" : "Middle Africa",
+        "countryName" : "Equatorial Guinea",
+        "alpha3Code" : "GNQ"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "ER",
+                "city" : "Asmara",
+                "zoneName" : "Africa/Asmara"
+            }
+        ],
+        "capital" : "Asmara",
+        "alpha2Code" : "ER",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Eritrea",
+        "alpha3Code" : "ERI"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "EE",
+                "city" : "Tallinn",
+                "zoneName" : "Europe/Tallinn"
+            }
+        ],
+        "capital" : "Tallinn",
+        "alpha2Code" : "EE",
+        "subregion" : "Northern Europe",
+        "countryName" : "Estonia",
+        "alpha3Code" : "EST"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "ET",
+                "city" : "Addis Ababa",
+                "zoneName" : "Africa/Addis_Ababa"
+            }
+        ],
+        "capital" : "Addis Ababa",
+        "alpha2Code" : "ET",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Ethiopia",
+        "alpha3Code" : "ETH"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "FK",
+                "city" : "Stanley",
+                "zoneName" : "Atlantic/Stanley"
+            }
+        ],
+        "capital" : "Stanley",
+        "alpha2Code" : "FK",
+        "subregion" : "South America",
+        "countryName" : "Falkland Islands (Malvinas)",
+        "alpha3Code" : "FLK"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "FO",
+                "city" : "Faroe",
+                "zoneName" : "Atlantic/Faroe"
+            }
+        ],
+        "capital" : "Tórshavn",
+        "alpha2Code" : "FO",
+        "subregion" : "Northern Europe",
+        "countryName" : "Faroe Islands",
+        "alpha3Code" : "FRO"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "FJ",
+                "city" : "Fiji",
+                "zoneName" : "Pacific/Fiji"
+            }
+        ],
+        "capital" : "Suva",
+        "alpha2Code" : "FJ",
+        "subregion" : "Melanesia",
+        "countryName" : "Fiji",
+        "alpha3Code" : "FJI"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "FI",
+                "city" : "Helsinki",
+                "zoneName" : "Europe/Helsinki"
+            }
+        ],
+        "capital" : "Helsinki",
+        "alpha2Code" : "FI",
+        "subregion" : "Northern Europe",
+        "countryName" : "Finland",
+        "alpha3Code" : "FIN"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "FR",
+                "city" : "Paris",
+                "zoneName" : "Europe/Paris"
+            }
+        ],
+        "capital" : "Paris",
+        "alpha2Code" : "FR",
+        "subregion" : "Western Europe",
+        "countryName" : "France",
+        "alpha3Code" : "FRA"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "GF",
+                "city" : "Cayenne",
+                "zoneName" : "America/Cayenne"
+            }
+        ],
+        "capital" : "Cayenne",
+        "alpha2Code" : "GF",
+        "subregion" : "South America",
+        "countryName" : "French Guiana",
+        "alpha3Code" : "GUF"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "PF",
+                "city" : "Gambier",
+                "zoneName" : "Pacific/Gambier"
+            },
+            {
+                "countryCode" : "PF",
+                "city" : "Marquesas",
+                "zoneName" : "Pacific/Marquesas"
+            },
+            {
+                "countryCode" : "PF",
+                "city" : "Tahiti",
+                "zoneName" : "Pacific/Tahiti"
+            }
+        ],
+        "capital" : "Papeetē",
+        "alpha2Code" : "PF",
+        "subregion" : "Polynesia",
+        "countryName" : "French Polynesia",
+        "alpha3Code" : "PYF"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "TF",
+                "city" : "Kerguelen",
+                "zoneName" : "Indian/Kerguelen"
+            }
+        ],
+        "capital" : "Port-aux-Français",
+        "alpha2Code" : "TF",
+        "subregion" : "Southern Africa",
+        "countryName" : "French Southern Territories",
+        "alpha3Code" : "ATF"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "GA",
+                "city" : "Libreville",
+                "zoneName" : "Africa/Libreville"
+            }
+        ],
+        "capital" : "Libreville",
+        "alpha2Code" : "GA",
+        "subregion" : "Middle Africa",
+        "countryName" : "Gabon",
+        "alpha3Code" : "GAB"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "GM",
+                "city" : "Banjul",
+                "zoneName" : "Africa/Banjul"
+            }
+        ],
+        "capital" : "Banjul",
+        "alpha2Code" : "GM",
+        "subregion" : "Western Africa",
+        "countryName" : "Gambia",
+        "alpha3Code" : "GMB"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "GE",
+                "city" : "Tbilisi",
+                "zoneName" : "Asia/Tbilisi"
+            }
+        ],
+        "capital" : "Tbilisi",
+        "alpha2Code" : "GE",
+        "subregion" : "Western Asia",
+        "countryName" : "Georgia",
+        "alpha3Code" : "GEO"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "DE",
+                "city" : "Berlin",
+                "zoneName" : "Europe/Berlin"
+            },
+            {
+                "countryCode" : "DE",
+                "city" : "Busingen",
+                "zoneName" : "Europe/Busingen"
+            }
+        ],
+        "capital" : "Berlin",
+        "alpha2Code" : "DE",
+        "subregion" : "Western Europe",
+        "countryName" : "Germany",
+        "alpha3Code" : "DEU"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "GH",
+                "city" : "Accra",
+                "zoneName" : "Africa/Accra"
+            }
+        ],
+        "capital" : "Accra",
+        "alpha2Code" : "GH",
+        "subregion" : "Western Africa",
+        "countryName" : "Ghana",
+        "alpha3Code" : "GHA"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "GI",
+                "city" : "Gibraltar",
+                "zoneName" : "Europe/Gibraltar"
+            }
+        ],
+        "capital" : "Gibraltar",
+        "alpha2Code" : "GI",
+        "subregion" : "Southern Europe",
+        "countryName" : "Gibraltar",
+        "alpha3Code" : "GIB"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "GR",
+                "city" : "Athens",
+                "zoneName" : "Europe/Athens"
+            }
+        ],
+        "capital" : "Athens",
+        "alpha2Code" : "GR",
+        "subregion" : "Southern Europe",
+        "countryName" : "Greece",
+        "alpha3Code" : "GRC"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "GL",
+                "city" : "Danmarkshavn",
+                "zoneName" : "America/Danmarkshavn"
+            },
+            {
+                "countryCode" : "GL",
+                "city" : "Godthab",
+                "zoneName" : "America/Godthab"
+            },
+            {
+                "countryCode" : "GL",
+                "city" : "Scoresbysund",
+                "zoneName" : "America/Scoresbysund"
+            },
+            {
+                "countryCode" : "GL",
+                "city" : "Thule",
+                "zoneName" : "America/Thule"
+            }
+        ],
+        "capital" : "Nuuk",
+        "alpha2Code" : "GL",
+        "subregion" : "Northern America",
+        "countryName" : "Greenland",
+        "alpha3Code" : "GRL"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "GD",
+                "city" : "Grenada",
+                "zoneName" : "America/Grenada"
+            }
+        ],
+        "capital" : "St. George's",
+        "alpha2Code" : "GD",
+        "subregion" : "Caribbean",
+        "countryName" : "Grenada",
+        "alpha3Code" : "GRD"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "GP",
+                "city" : "Guadeloupe",
+                "zoneName" : "America/Guadeloupe"
+            }
+        ],
+        "capital" : "Basse-Terre",
+        "alpha2Code" : "GP",
+        "subregion" : "Caribbean",
+        "countryName" : "Guadeloupe",
+        "alpha3Code" : "GLP"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "GU",
+                "city" : "Guam",
+                "zoneName" : "Pacific/Guam"
+            }
+        ],
+        "capital" : "Hagåtña",
+        "alpha2Code" : "GU",
+        "subregion" : "Micronesia",
+        "countryName" : "Guam",
+        "alpha3Code" : "GUM"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "GT",
+                "city" : "Guatemala",
+                "zoneName" : "America/Guatemala"
+            }
+        ],
+        "capital" : "Guatemala City",
+        "alpha2Code" : "GT",
+        "subregion" : "Central America",
+        "countryName" : "Guatemala",
+        "alpha3Code" : "GTM"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "GG",
+                "city" : "Guernsey",
+                "zoneName" : "Europe/Guernsey"
+            }
+        ],
+        "capital" : "St. Peter Port",
+        "alpha2Code" : "GG",
+        "subregion" : "Northern Europe",
+        "countryName" : "Guernsey",
+        "alpha3Code" : "GGY"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "GN",
+                "city" : "Conakry",
+                "zoneName" : "Africa/Conakry"
+            }
+        ],
+        "capital" : "Conakry",
+        "alpha2Code" : "GN",
+        "subregion" : "Western Africa",
+        "countryName" : "Guinea",
+        "alpha3Code" : "GIN"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "GW",
+                "city" : "Bissau",
+                "zoneName" : "Africa/Bissau"
+            }
+        ],
+        "capital" : "Bissau",
+        "alpha2Code" : "GW",
+        "subregion" : "Western Africa",
+        "countryName" : "Guinea-Bissau",
+        "alpha3Code" : "GNB"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "GY",
+                "city" : "Guyana",
+                "zoneName" : "America/Guyana"
+            }
+        ],
+        "capital" : "Georgetown",
+        "alpha2Code" : "GY",
+        "subregion" : "South America",
+        "countryName" : "Guyana",
+        "alpha3Code" : "GUY"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "HT",
+                "city" : "Port-au-Prince",
+                "zoneName" : "America/Port-au-Prince"
+            }
+        ],
+        "capital" : "Port-au-Prince",
+        "alpha2Code" : "HT",
+        "subregion" : "Caribbean",
+        "countryName" : "Haiti",
+        "alpha3Code" : "HTI"
+    },
+    {
+        "region" : "",
+        "timezones" : [
+
+        ],
+        "capital" : "",
+        "alpha2Code" : "HM",
+        "subregion" : "",
+        "countryName" : "Heard Island and McDonald Islands",
+        "alpha3Code" : "HMD"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "VA",
+                "city" : "Vatican",
+                "zoneName" : "Europe/Vatican"
+            }
+        ],
+        "capital" : "Rome",
+        "alpha2Code" : "VA",
+        "subregion" : "Southern Europe",
+        "countryName" : "Holy See",
+        "alpha3Code" : "VAT"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "HN",
+                "city" : "Tegucigalpa",
+                "zoneName" : "America/Tegucigalpa"
+            }
+        ],
+        "capital" : "Tegucigalpa",
+        "alpha2Code" : "HN",
+        "subregion" : "Central America",
+        "countryName" : "Honduras",
+        "alpha3Code" : "HND"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "HK",
+                "city" : "Hong Kong",
+                "zoneName" : "Asia/Hong_Kong"
+            }
+        ],
+        "capital" : "City of Victoria",
+        "alpha2Code" : "HK",
+        "subregion" : "Eastern Asia",
+        "countryName" : "Hong Kong",
+        "alpha3Code" : "HKG"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "HU",
+                "city" : "Budapest",
+                "zoneName" : "Europe/Budapest"
+            }
+        ],
+        "capital" : "Budapest",
+        "alpha2Code" : "HU",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Hungary",
+        "alpha3Code" : "HUN"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "IS",
+                "city" : "Reykjavik",
+                "zoneName" : "Atlantic/Reykjavik"
+            }
+        ],
+        "capital" : "Reykjavík",
+        "alpha2Code" : "IS",
+        "subregion" : "Northern Europe",
+        "countryName" : "Iceland",
+        "alpha3Code" : "ISL"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "IN",
+                "city" : "Huderabad",
+                "zoneName" : "Asia/Huderabad"
+            },
+            {
+                "countryCode" : "IN",
+                "city" : "Kolkata",
+                "zoneName" : "Asia/Kolkata"
+            }
+        ],
+        "capital" : "New Delhi",
+        "alpha2Code" : "IN",
+        "subregion" : "Southern Asia",
+        "countryName" : "India",
+        "alpha3Code" : "IND"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "ID",
+                "city" : "Jakarta",
+                "zoneName" : "Asia/Jakarta"
+            },
+            {
+                "countryCode" : "ID",
+                "city" : "Jayapura",
+                "zoneName" : "Asia/Jayapura"
+            },
+            {
+                "countryCode" : "ID",
+                "city" : "Makassar",
+                "zoneName" : "Asia/Makassar"
+            },
+            {
+                "countryCode" : "ID",
+                "city" : "Pontianak",
+                "zoneName" : "Asia/Pontianak"
+            }
+        ],
+        "capital" : "Jakarta",
+        "alpha2Code" : "ID",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Indonesia",
+        "alpha3Code" : "IDN"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "CI",
+                "city" : "Abidjan",
+                "zoneName" : "Africa/Abidjan"
+            }
+        ],
+        "capital" : "Yamoussoukro",
+        "alpha2Code" : "CI",
+        "subregion" : "Western Africa",
+        "countryName" : "Côte d'Ivoire",
+        "alpha3Code" : "CIV"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "IR",
+                "city" : "Tehran",
+                "zoneName" : "Asia/Tehran"
+            }
+        ],
+        "capital" : "Tehran",
+        "alpha2Code" : "IR",
+        "subregion" : "Southern Asia",
+        "countryName" : "Iran (Islamic Republic of)",
+        "alpha3Code" : "IRN"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "IQ",
+                "city" : "Baghdad",
+                "zoneName" : "Asia/Baghdad"
+            }
+        ],
+        "capital" : "Baghdad",
+        "alpha2Code" : "IQ",
+        "subregion" : "Western Asia",
+        "countryName" : "Iraq",
+        "alpha3Code" : "IRQ"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "IE",
+                "city" : "Dublin",
+                "zoneName" : "Europe/Dublin"
+            }
+        ],
+        "capital" : "Dublin",
+        "alpha2Code" : "IE",
+        "subregion" : "Northern Europe",
+        "countryName" : "Ireland",
+        "alpha3Code" : "IRL"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "IM",
+                "city" : "Isle of Man",
+                "zoneName" : "Europe/Isle_of_Man"
+            }
+        ],
+        "capital" : "Douglas",
+        "alpha2Code" : "IM",
+        "subregion" : "Northern Europe",
+        "countryName" : "Isle of Man",
+        "alpha3Code" : "IMN"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "IL",
+                "city" : "Jerusalem",
+                "zoneName" : "Asia/Jerusalem"
+            }
+        ],
+        "capital" : "Jerusalem",
+        "alpha2Code" : "IL",
+        "subregion" : "Western Asia",
+        "countryName" : "Israel",
+        "alpha3Code" : "ISR"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "IT",
+                "city" : "Rome",
+                "zoneName" : "Europe/Rome"
+            }
+        ],
+        "capital" : "Rome",
+        "alpha2Code" : "IT",
+        "subregion" : "Southern Europe",
+        "countryName" : "Italy",
+        "alpha3Code" : "ITA"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "JM",
+                "city" : "Jamaica",
+                "zoneName" : "America/Jamaica"
+            }
+        ],
+        "capital" : "Kingston",
+        "alpha2Code" : "JM",
+        "subregion" : "Caribbean",
+        "countryName" : "Jamaica",
+        "alpha3Code" : "JAM"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "JP",
+                "city" : "Tokyo",
+                "zoneName" : "Asia/Tokyo"
+            }
+        ],
+        "capital" : "Tokyo",
+        "alpha2Code" : "JP",
+        "subregion" : "Eastern Asia",
+        "countryName" : "Japan",
+        "alpha3Code" : "JPN"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "JE",
+                "city" : "Jersey",
+                "zoneName" : "Europe/Jersey"
+            }
+        ],
+        "capital" : "Saint Helier",
+        "alpha2Code" : "JE",
+        "subregion" : "Northern Europe",
+        "countryName" : "Jersey",
+        "alpha3Code" : "JEY"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "JO",
+                "city" : "Amman",
+                "zoneName" : "Asia/Amman"
+            }
+        ],
+        "capital" : "Amman",
+        "alpha2Code" : "JO",
+        "subregion" : "Western Asia",
+        "countryName" : "Jordan",
+        "alpha3Code" : "JOR"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "KZ",
+                "city" : "Almaty",
+                "zoneName" : "Asia/Almaty"
+            },
+            {
+                "countryCode" : "KZ",
+                "city" : "Aqtau",
+                "zoneName" : "Asia/Aqtau"
+            },
+            {
+                "countryCode" : "KZ",
+                "city" : "Aqtobe",
+                "zoneName" : "Asia/Aqtobe"
+            },
+            {
+                "countryCode" : "KZ",
+                "city" : "Oral",
+                "zoneName" : "Asia/Oral"
+            },
+            {
+                "countryCode" : "KZ",
+                "city" : "Qyzylorda",
+                "zoneName" : "Asia/Qyzylorda"
+            }
+        ],
+        "capital" : "Astana",
+        "alpha2Code" : "KZ",
+        "subregion" : "Central Asia",
+        "countryName" : "Kazakhstan",
+        "alpha3Code" : "KAZ"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "KE",
+                "city" : "Nairobi",
+                "zoneName" : "Africa/Nairobi"
+            }
+        ],
+        "capital" : "Nairobi",
+        "alpha2Code" : "KE",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Kenya",
+        "alpha3Code" : "KEN"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "KI",
+                "city" : "Enderbury",
+                "zoneName" : "Pacific/Enderbury"
+            },
+            {
+                "countryCode" : "KI",
+                "city" : "Kiritimati",
+                "zoneName" : "Pacific/Kiritimati"
+            },
+            {
+                "countryCode" : "KI",
+                "city" : "Tarawa",
+                "zoneName" : "Pacific/Tarawa"
+            }
+        ],
+        "capital" : "South Tarawa",
+        "alpha2Code" : "KI",
+        "subregion" : "Micronesia",
+        "countryName" : "Kiribati",
+        "alpha3Code" : "KIR"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "KW",
+                "city" : "Kuwait",
+                "zoneName" : "Asia/Kuwait"
+            }
+        ],
+        "capital" : "Kuwait City",
+        "alpha2Code" : "KW",
+        "subregion" : "Western Asia",
+        "countryName" : "Kuwait",
+        "alpha3Code" : "KWT"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "KG",
+                "city" : "Bishkek",
+                "zoneName" : "Asia/Bishkek"
+            }
+        ],
+        "capital" : "Bishkek",
+        "alpha2Code" : "KG",
+        "subregion" : "Central Asia",
+        "countryName" : "Kyrgyzstan",
+        "alpha3Code" : "KGZ"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "LA",
+                "city" : "Vientiane",
+                "zoneName" : "Asia/Vientiane"
+            }
+        ],
+        "capital" : "Vientiane",
+        "alpha2Code" : "LA",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Lao People's Democratic Republic",
+        "alpha3Code" : "LAO"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "LV",
+                "city" : "Riga",
+                "zoneName" : "Europe/Riga"
+            }
+        ],
+        "capital" : "Riga",
+        "alpha2Code" : "LV",
+        "subregion" : "Northern Europe",
+        "countryName" : "Latvia",
+        "alpha3Code" : "LVA"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "LB",
+                "city" : "Beirut",
+                "zoneName" : "Asia/Beirut"
+            }
+        ],
+        "capital" : "Beirut",
+        "alpha2Code" : "LB",
+        "subregion" : "Western Asia",
+        "countryName" : "Lebanon",
+        "alpha3Code" : "LBN"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "LS",
+                "city" : "Maseru",
+                "zoneName" : "Africa/Maseru"
+            }
+        ],
+        "capital" : "Maseru",
+        "alpha2Code" : "LS",
+        "subregion" : "Southern Africa",
+        "countryName" : "Lesotho",
+        "alpha3Code" : "LSO"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "LR",
+                "city" : "Monrovia",
+                "zoneName" : "Africa/Monrovia"
+            }
+        ],
+        "capital" : "Monrovia",
+        "alpha2Code" : "LR",
+        "subregion" : "Western Africa",
+        "countryName" : "Liberia",
+        "alpha3Code" : "LBR"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "LY",
+                "city" : "Tripoli",
+                "zoneName" : "Africa/Tripoli"
+            }
+        ],
+        "capital" : "Tripoli",
+        "alpha2Code" : "LY",
+        "subregion" : "Northern Africa",
+        "countryName" : "Libya",
+        "alpha3Code" : "LBY"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "LI",
+                "city" : "Vaduz",
+                "zoneName" : "Europe/Vaduz"
+            }
+        ],
+        "capital" : "Vaduz",
+        "alpha2Code" : "LI",
+        "subregion" : "Western Europe",
+        "countryName" : "Liechtenstein",
+        "alpha3Code" : "LIE"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "LT",
+                "city" : "Vilnius",
+                "zoneName" : "Europe/Vilnius"
+            }
+        ],
+        "capital" : "Vilnius",
+        "alpha2Code" : "LT",
+        "subregion" : "Northern Europe",
+        "countryName" : "Lithuania",
+        "alpha3Code" : "LTU"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "LU",
+                "city" : "Luxembourg",
+                "zoneName" : "Europe/Luxembourg"
+            }
+        ],
+        "capital" : "Luxembourg",
+        "alpha2Code" : "LU",
+        "subregion" : "Western Europe",
+        "countryName" : "Luxembourg",
+        "alpha3Code" : "LUX"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "MO",
+                "city" : "Macau",
+                "zoneName" : "Asia/Macau"
+            }
+        ],
+        "capital" : "",
+        "alpha2Code" : "MO",
+        "subregion" : "Eastern Asia",
+        "countryName" : "Macao",
+        "alpha3Code" : "MAC"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "MK",
+                "city" : "Skopje",
+                "zoneName" : "Europe/Skopje"
+            }
+        ],
+        "capital" : "Skopje",
+        "alpha2Code" : "MK",
+        "subregion" : "Southern Europe",
+        "countryName" : "Macedonia (the former Yugoslav Republic of)",
+        "alpha3Code" : "MKD"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "MG",
+                "city" : "Antananarivo",
+                "zoneName" : "Indian/Antananarivo"
+            }
+        ],
+        "capital" : "Antananarivo",
+        "alpha2Code" : "MG",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Madagascar",
+        "alpha3Code" : "MDG"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "MW",
+                "city" : "Blantyre",
+                "zoneName" : "Africa/Blantyre"
+            }
+        ],
+        "capital" : "Lilongwe",
+        "alpha2Code" : "MW",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Malawi",
+        "alpha3Code" : "MWI"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "MY",
+                "city" : "Kuala Lumpur",
+                "zoneName" : "Asia/Kuala_Lumpur"
+            },
+            {
+                "countryCode" : "MY",
+                "city" : "Kuching",
+                "zoneName" : "Asia/Kuching"
+            }
+        ],
+        "capital" : "Kuala Lumpur",
+        "alpha2Code" : "MY",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Malaysia",
+        "alpha3Code" : "MYS"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "MV",
+                "city" : "Maldives",
+                "zoneName" : "Indian/Maldives"
+            }
+        ],
+        "capital" : "Malé",
+        "alpha2Code" : "MV",
+        "subregion" : "Southern Asia",
+        "countryName" : "Maldives",
+        "alpha3Code" : "MDV"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "ML",
+                "city" : "Bamako",
+                "zoneName" : "Africa/Bamako"
+            }
+        ],
+        "capital" : "Bamako",
+        "alpha2Code" : "ML",
+        "subregion" : "Western Africa",
+        "countryName" : "Mali",
+        "alpha3Code" : "MLI"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "MT",
+                "city" : "Malta",
+                "zoneName" : "Europe/Malta"
+            }
+        ],
+        "capital" : "Valletta",
+        "alpha2Code" : "MT",
+        "subregion" : "Southern Europe",
+        "countryName" : "Malta",
+        "alpha3Code" : "MLT"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "MH",
+                "city" : "Kwajalein",
+                "zoneName" : "Pacific/Kwajalein"
+            },
+            {
+                "countryCode" : "MH",
+                "city" : "Majuro",
+                "zoneName" : "Pacific/Majuro"
+            }
+        ],
+        "capital" : "Majuro",
+        "alpha2Code" : "MH",
+        "subregion" : "Micronesia",
+        "countryName" : "Marshall Islands",
+        "alpha3Code" : "MHL"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "MQ",
+                "city" : "Martinique",
+                "zoneName" : "America/Martinique"
+            }
+        ],
+        "capital" : "Fort-de-France",
+        "alpha2Code" : "MQ",
+        "subregion" : "Caribbean",
+        "countryName" : "Martinique",
+        "alpha3Code" : "MTQ"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "MR",
+                "city" : "Nouakchott",
+                "zoneName" : "Africa/Nouakchott"
+            }
+        ],
+        "capital" : "Nouakchott",
+        "alpha2Code" : "MR",
+        "subregion" : "Western Africa",
+        "countryName" : "Mauritania",
+        "alpha3Code" : "MRT"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "MU",
+                "city" : "Mauritius",
+                "zoneName" : "Indian/Mauritius"
+            }
+        ],
+        "capital" : "Port Louis",
+        "alpha2Code" : "MU",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Mauritius",
+        "alpha3Code" : "MUS"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "YT",
+                "city" : "Mayotte",
+                "zoneName" : "Indian/Mayotte"
+            }
+        ],
+        "capital" : "Mamoudzou",
+        "alpha2Code" : "YT",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Mayotte",
+        "alpha3Code" : "MYT"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "MX",
+                "city" : "Bahia Banderas",
+                "zoneName" : "America/Bahia_Banderas"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Cancun",
+                "zoneName" : "America/Cancun"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Chihuahua",
+                "zoneName" : "America/Chihuahua"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Hermosillo",
+                "zoneName" : "America/Hermosillo"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Matamoros",
+                "zoneName" : "America/Matamoros"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Mazatlan",
+                "zoneName" : "America/Mazatlan"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Merida",
+                "zoneName" : "America/Merida"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Mexico City",
+                "zoneName" : "America/Mexico_City"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Monterrey",
+                "zoneName" : "America/Monterrey"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Ojinaga",
+                "zoneName" : "America/Ojinaga"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Santa Isabel",
+                "zoneName" : "America/Santa_Isabel"
+            },
+            {
+                "countryCode" : "MX",
+                "city" : "Tijuana",
+                "zoneName" : "America/Tijuana"
+            }
+        ],
+        "capital" : "Mexico City",
+        "alpha2Code" : "MX",
+        "subregion" : "Central America",
+        "countryName" : "Mexico",
+        "alpha3Code" : "MEX"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "FM",
+                "city" : "Chuuk",
+                "zoneName" : "Pacific/Chuuk"
+            },
+            {
+                "countryCode" : "FM",
+                "city" : "Kosrae",
+                "zoneName" : "Pacific/Kosrae"
+            },
+            {
+                "countryCode" : "FM",
+                "city" : "Pohnpei",
+                "zoneName" : "Pacific/Pohnpei"
+            }
+        ],
+        "capital" : "Palikir",
+        "alpha2Code" : "FM",
+        "subregion" : "Micronesia",
+        "countryName" : "Micronesia (Federated States of)",
+        "alpha3Code" : "FSM"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "MD",
+                "city" : "Chisinau",
+                "zoneName" : "Europe/Chisinau"
+            }
+        ],
+        "capital" : "Chișinău",
+        "alpha2Code" : "MD",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Moldova (Republic of)",
+        "alpha3Code" : "MDA"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "MC",
+                "city" : "Monaco",
+                "zoneName" : "Europe/Monaco"
+            }
+        ],
+        "capital" : "Monaco",
+        "alpha2Code" : "MC",
+        "subregion" : "Western Europe",
+        "countryName" : "Monaco",
+        "alpha3Code" : "MCO"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "MN",
+                "city" : "Choibalsan",
+                "zoneName" : "Asia/Choibalsan"
+            },
+            {
+                "countryCode" : "MN",
+                "city" : "Hovd",
+                "zoneName" : "Asia/Hovd"
+            },
+            {
+                "countryCode" : "MN",
+                "city" : "Ulaanbaatar",
+                "zoneName" : "Asia/Ulaanbaatar"
+            }
+        ],
+        "capital" : "Ulan Bator",
+        "alpha2Code" : "MN",
+        "subregion" : "Eastern Asia",
+        "countryName" : "Mongolia",
+        "alpha3Code" : "MNG"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "ME",
+                "city" : "Podgorica",
+                "zoneName" : "Europe/Podgorica"
+            }
+        ],
+        "capital" : "Podgorica",
+        "alpha2Code" : "ME",
+        "subregion" : "Southern Europe",
+        "countryName" : "Montenegro",
+        "alpha3Code" : "MNE"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "MS",
+                "city" : "Montserrat",
+                "zoneName" : "America/Montserrat"
+            }
+        ],
+        "capital" : "Plymouth",
+        "alpha2Code" : "MS",
+        "subregion" : "Caribbean",
+        "countryName" : "Montserrat",
+        "alpha3Code" : "MSR"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "MA",
+                "city" : "Casablanca",
+                "zoneName" : "Africa/Casablanca"
+            }
+        ],
+        "capital" : "Rabat",
+        "alpha2Code" : "MA",
+        "subregion" : "Northern Africa",
+        "countryName" : "Morocco",
+        "alpha3Code" : "MAR"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "MZ",
+                "city" : "Maputo",
+                "zoneName" : "Africa/Maputo"
+            }
+        ],
+        "capital" : "Maputo",
+        "alpha2Code" : "MZ",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Mozambique",
+        "alpha3Code" : "MOZ"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "MM",
+                "city" : "Rangoon",
+                "zoneName" : "Asia/Rangoon"
+            }
+        ],
+        "capital" : "Naypyidaw",
+        "alpha2Code" : "MM",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Myanmar",
+        "alpha3Code" : "MMR"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "NA",
+                "city" : "Windhoek",
+                "zoneName" : "Africa/Windhoek"
+            }
+        ],
+        "capital" : "Windhoek",
+        "alpha2Code" : "NA",
+        "subregion" : "Southern Africa",
+        "countryName" : "Namibia",
+        "alpha3Code" : "NAM"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "NR",
+                "city" : "Nauru",
+                "zoneName" : "Pacific/Nauru"
+            }
+        ],
+        "capital" : "Yaren",
+        "alpha2Code" : "NR",
+        "subregion" : "Micronesia",
+        "countryName" : "Nauru",
+        "alpha3Code" : "NRU"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "NP",
+                "city" : "Kathmandu",
+                "zoneName" : "Asia/Kathmandu"
+            }
+        ],
+        "capital" : "Kathmandu",
+        "alpha2Code" : "NP",
+        "subregion" : "Southern Asia",
+        "countryName" : "Nepal",
+        "alpha3Code" : "NPL"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "NL",
+                "city" : "Amsterdam",
+                "zoneName" : "Europe/Amsterdam"
+            }
+        ],
+        "capital" : "Amsterdam",
+        "alpha2Code" : "NL",
+        "subregion" : "Western Europe",
+        "countryName" : "Netherlands",
+        "alpha3Code" : "NLD"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "NC",
+                "city" : "Noumea",
+                "zoneName" : "Pacific/Noumea"
+            }
+        ],
+        "capital" : "Nouméa",
+        "alpha2Code" : "NC",
+        "subregion" : "Melanesia",
+        "countryName" : "New Caledonia",
+        "alpha3Code" : "NCL"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "NZ",
+                "city" : "Auckland",
+                "zoneName" : "Pacific/Auckland"
+            },
+            {
+                "countryCode" : "NZ",
+                "city" : "Chatham",
+                "zoneName" : "Pacific/Chatham"
+            }
+        ],
+        "capital" : "Wellington",
+        "alpha2Code" : "NZ",
+        "subregion" : "Australia and New Zealand",
+        "countryName" : "New Zealand",
+        "alpha3Code" : "NZL"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "NI",
+                "city" : "Managua",
+                "zoneName" : "America/Managua"
+            }
+        ],
+        "capital" : "Managua",
+        "alpha2Code" : "NI",
+        "subregion" : "Central America",
+        "countryName" : "Nicaragua",
+        "alpha3Code" : "NIC"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "NE",
+                "city" : "Niamey",
+                "zoneName" : "Africa/Niamey"
+            }
+        ],
+        "capital" : "Niamey",
+        "alpha2Code" : "NE",
+        "subregion" : "Western Africa",
+        "countryName" : "Niger",
+        "alpha3Code" : "NER"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "NG",
+                "city" : "Lagos",
+                "zoneName" : "Africa/Lagos"
+            }
+        ],
+        "capital" : "Abuja",
+        "alpha2Code" : "NG",
+        "subregion" : "Western Africa",
+        "countryName" : "Nigeria",
+        "alpha3Code" : "NGA"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "NU",
+                "city" : "Niue",
+                "zoneName" : "Pacific/Niue"
+            }
+        ],
+        "capital" : "Alofi",
+        "alpha2Code" : "NU",
+        "subregion" : "Polynesia",
+        "countryName" : "Niue",
+        "alpha3Code" : "NIU"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "NF",
+                "city" : "Norfolk",
+                "zoneName" : "Pacific/Norfolk"
+            }
+        ],
+        "capital" : "Kingston",
+        "alpha2Code" : "NF",
+        "subregion" : "Australia and New Zealand",
+        "countryName" : "Norfolk Island",
+        "alpha3Code" : "NFK"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "KP",
+                "city" : "Pyongyang",
+                "zoneName" : "Asia/Pyongyang"
+            }
+        ],
+        "capital" : "Pyongyang",
+        "alpha2Code" : "KP",
+        "subregion" : "Eastern Asia",
+        "countryName" : "Korea (Democratic People's Republic of)",
+        "alpha3Code" : "PRK"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "MP",
+                "city" : "Saipan",
+                "zoneName" : "Pacific/Saipan"
+            }
+        ],
+        "capital" : "Saipan",
+        "alpha2Code" : "MP",
+        "subregion" : "Micronesia",
+        "countryName" : "Northern Mariana Islands",
+        "alpha3Code" : "MNP"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "NO",
+                "city" : "Oslo",
+                "zoneName" : "Europe/Oslo"
+            }
+        ],
+        "capital" : "Oslo",
+        "alpha2Code" : "NO",
+        "subregion" : "Northern Europe",
+        "countryName" : "Norway",
+        "alpha3Code" : "NOR"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "OM",
+                "city" : "Muscat",
+                "zoneName" : "Asia/Muscat"
+            }
+        ],
+        "capital" : "Muscat",
+        "alpha2Code" : "OM",
+        "subregion" : "Western Asia",
+        "countryName" : "Oman",
+        "alpha3Code" : "OMN"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "PK",
+                "city" : "Karachi",
+                "zoneName" : "Asia/Karachi"
+            }
+        ],
+        "capital" : "Islamabad",
+        "alpha2Code" : "PK",
+        "subregion" : "Southern Asia",
+        "countryName" : "Pakistan",
+        "alpha3Code" : "PAK"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "PW",
+                "city" : "Palau",
+                "zoneName" : "Pacific/Palau"
+            }
+        ],
+        "capital" : "Ngerulmud",
+        "alpha2Code" : "PW",
+        "subregion" : "Micronesia",
+        "countryName" : "Palau",
+        "alpha3Code" : "PLW"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "PS",
+                "city" : "Gaza",
+                "zoneName" : "Asia/Gaza"
+            },
+            {
+                "countryCode" : "PS",
+                "city" : "Hebron",
+                "zoneName" : "Asia/Hebron"
+            }
+        ],
+        "capital" : "Ramallah",
+        "alpha2Code" : "PS",
+        "subregion" : "Western Asia",
+        "countryName" : "Palestine, State of",
+        "alpha3Code" : "PSE"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "PA",
+                "city" : "Panama",
+                "zoneName" : "America/Panama"
+            }
+        ],
+        "capital" : "Panama City",
+        "alpha2Code" : "PA",
+        "subregion" : "Central America",
+        "countryName" : "Panama",
+        "alpha3Code" : "PAN"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "PG",
+                "city" : "Port Moresby",
+                "zoneName" : "Pacific/Port_Moresby"
+            }
+        ],
+        "capital" : "Port Moresby",
+        "alpha2Code" : "PG",
+        "subregion" : "Melanesia",
+        "countryName" : "Papua New Guinea",
+        "alpha3Code" : "PNG"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "PY",
+                "city" : "Asuncion",
+                "zoneName" : "America/Asuncion"
+            }
+        ],
+        "capital" : "Asunción",
+        "alpha2Code" : "PY",
+        "subregion" : "South America",
+        "countryName" : "Paraguay",
+        "alpha3Code" : "PRY"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "PE",
+                "city" : "Lima",
+                "zoneName" : "America/Lima"
+            }
+        ],
+        "capital" : "Lima",
+        "alpha2Code" : "PE",
+        "subregion" : "South America",
+        "countryName" : "Peru",
+        "alpha3Code" : "PER"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "PH",
+                "city" : "Manila",
+                "zoneName" : "Asia/Manila"
+            }
+        ],
+        "capital" : "Manila",
+        "alpha2Code" : "PH",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Philippines",
+        "alpha3Code" : "PHL"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "PN",
+                "city" : "Pitcairn",
+                "zoneName" : "Pacific/Pitcairn"
+            }
+        ],
+        "capital" : "Adamstown",
+        "alpha2Code" : "PN",
+        "subregion" : "Polynesia",
+        "countryName" : "Pitcairn",
+        "alpha3Code" : "PCN"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "PL",
+                "city" : "Warsaw",
+                "zoneName" : "Europe/Warsaw"
+            }
+        ],
+        "capital" : "Warsaw",
+        "alpha2Code" : "PL",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Poland",
+        "alpha3Code" : "POL"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "PT",
+                "city" : "Azores",
+                "zoneName" : "Atlantic/Azores"
+            },
+            {
+                "countryCode" : "PT",
+                "city" : "Madeira",
+                "zoneName" : "Atlantic/Madeira"
+            },
+            {
+                "countryCode" : "PT",
+                "city" : "Lisbon",
+                "zoneName" : "Europe/Lisbon"
+            }
+        ],
+        "capital" : "Lisbon",
+        "alpha2Code" : "PT",
+        "subregion" : "Southern Europe",
+        "countryName" : "Portugal",
+        "alpha3Code" : "PRT"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "PR",
+                "city" : "Puerto Rico",
+                "zoneName" : "America/Puerto_Rico"
+            }
+        ],
+        "capital" : "San Juan",
+        "alpha2Code" : "PR",
+        "subregion" : "Caribbean",
+        "countryName" : "Puerto Rico",
+        "alpha3Code" : "PRI"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "QA",
+                "city" : "Qatar",
+                "zoneName" : "Asia/Qatar"
+            }
+        ],
+        "capital" : "Doha",
+        "alpha2Code" : "QA",
+        "subregion" : "Western Asia",
+        "countryName" : "Qatar",
+        "alpha3Code" : "QAT"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+
+        ],
+        "capital" : "Pristina",
+        "alpha2Code" : "XK",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Republic of Kosovo",
+        "alpha3Code" : "KOS"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "RE",
+                "city" : "Reunion",
+                "zoneName" : "Indian/Reunion"
+            }
+        ],
+        "capital" : "Saint-Denis",
+        "alpha2Code" : "RE",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Réunion",
+        "alpha3Code" : "REU"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "RO",
+                "city" : "Bucharest",
+                "zoneName" : "Europe/Bucharest"
+            }
+        ],
+        "capital" : "Bucharest",
+        "alpha2Code" : "RO",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Romania",
+        "alpha3Code" : "ROU"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "RU",
+                "city" : "Anadyr",
+                "zoneName" : "Asia/Anadyr"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Irkutsk",
+                "zoneName" : "Asia/Irkutsk"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Kamchatka",
+                "zoneName" : "Asia/Kamchatka"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Khandyga",
+                "zoneName" : "Asia/Khandyga"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Krasnoyarsk",
+                "zoneName" : "Asia/Krasnoyarsk"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Magadan",
+                "zoneName" : "Asia/Magadan"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Novokuznetsk",
+                "zoneName" : "Asia/Novokuznetsk"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Novosibirsk",
+                "zoneName" : "Asia/Novosibirsk"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Omsk",
+                "zoneName" : "Asia/Omsk"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Sakhalin",
+                "zoneName" : "Asia/Sakhalin"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Ust-Nera",
+                "zoneName" : "Asia/Ust-Nera"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Vladivostok",
+                "zoneName" : "Asia/Vladivostok"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Yakutsk",
+                "zoneName" : "Asia/Yakutsk"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Yekaterinburg",
+                "zoneName" : "Asia/Yekaterinburg"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Kaliningrad",
+                "zoneName" : "Europe/Kaliningrad"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Moscow",
+                "zoneName" : "Europe/Moscow"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Samara",
+                "zoneName" : "Europe/Samara"
+            },
+            {
+                "countryCode" : "RU",
+                "city" : "Volgograd",
+                "zoneName" : "Europe/Volgograd"
+            }
+        ],
+        "capital" : "Moscow",
+        "alpha2Code" : "RU",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Russian Federation",
+        "alpha3Code" : "RUS"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "RW",
+                "city" : "Kigali",
+                "zoneName" : "Africa/Kigali"
+            }
+        ],
+        "capital" : "Kigali",
+        "alpha2Code" : "RW",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Rwanda",
+        "alpha3Code" : "RWA"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "BL",
+                "city" : "St Barthelemy",
+                "zoneName" : "America/St_Barthelemy"
+            }
+        ],
+        "capital" : "Gustavia",
+        "alpha2Code" : "BL",
+        "subregion" : "Caribbean",
+        "countryName" : "Saint Barthélemy",
+        "alpha3Code" : "BLM"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "SH",
+                "city" : "St Helena",
+                "zoneName" : "Atlantic/St_Helena"
+            }
+        ],
+        "capital" : "Jamestown",
+        "alpha2Code" : "SH",
+        "subregion" : "Western Africa",
+        "countryName" : "Saint Helena, Ascension and Tristan da Cunha",
+        "alpha3Code" : "SHN"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "KN",
+                "city" : "St Kitts",
+                "zoneName" : "America/St_Kitts"
+            }
+        ],
+        "capital" : "Basseterre",
+        "alpha2Code" : "KN",
+        "subregion" : "Caribbean",
+        "countryName" : "Saint Kitts and Nevis",
+        "alpha3Code" : "KNA"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "LC",
+                "city" : "St Lucia",
+                "zoneName" : "America/St_Lucia"
+            }
+        ],
+        "capital" : "Castries",
+        "alpha2Code" : "LC",
+        "subregion" : "Caribbean",
+        "countryName" : "Saint Lucia",
+        "alpha3Code" : "LCA"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "MF",
+                "city" : "Marigot",
+                "zoneName" : "America/Marigot"
+            }
+        ],
+        "capital" : "Marigot",
+        "alpha2Code" : "MF",
+        "subregion" : "Caribbean",
+        "countryName" : "Saint Martin (French part)",
+        "alpha3Code" : "MAF"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "PM",
+                "city" : "Miquelon",
+                "zoneName" : "America/Miquelon"
+            }
+        ],
+        "capital" : "Saint-Pierre",
+        "alpha2Code" : "PM",
+        "subregion" : "Northern America",
+        "countryName" : "Saint Pierre and Miquelon",
+        "alpha3Code" : "SPM"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "VC",
+                "city" : "St Vincent",
+                "zoneName" : "America/St_Vincent"
+            }
+        ],
+        "capital" : "Kingstown",
+        "alpha2Code" : "VC",
+        "subregion" : "Caribbean",
+        "countryName" : "Saint Vincent and the Grenadines",
+        "alpha3Code" : "VCT"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "WS",
+                "city" : "Apia",
+                "zoneName" : "Pacific/Apia"
+            }
+        ],
+        "capital" : "Apia",
+        "alpha2Code" : "WS",
+        "subregion" : "Polynesia",
+        "countryName" : "Samoa",
+        "alpha3Code" : "WSM"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "SM",
+                "city" : "San Marino",
+                "zoneName" : "Europe/San_Marino"
+            }
+        ],
+        "capital" : "City of San Marino",
+        "alpha2Code" : "SM",
+        "subregion" : "Southern Europe",
+        "countryName" : "San Marino",
+        "alpha3Code" : "SMR"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "ST",
+                "city" : "Sao Tome",
+                "zoneName" : "Africa/Sao_Tome"
+            }
+        ],
+        "capital" : "São Tomé",
+        "alpha2Code" : "ST",
+        "subregion" : "Middle Africa",
+        "countryName" : "Sao Tome and Principe",
+        "alpha3Code" : "STP"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "SA",
+                "city" : "Riyadh",
+                "zoneName" : "Asia/Riyadh"
+            }
+        ],
+        "capital" : "Riyadh",
+        "alpha2Code" : "SA",
+        "subregion" : "Western Asia",
+        "countryName" : "Saudi Arabia",
+        "alpha3Code" : "SAU"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "SN",
+                "city" : "Dakar",
+                "zoneName" : "Africa/Dakar"
+            }
+        ],
+        "capital" : "Dakar",
+        "alpha2Code" : "SN",
+        "subregion" : "Western Africa",
+        "countryName" : "Senegal",
+        "alpha3Code" : "SEN"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "RS",
+                "city" : "Belgrade",
+                "zoneName" : "Europe/Belgrade"
+            }
+        ],
+        "capital" : "Belgrade",
+        "alpha2Code" : "RS",
+        "subregion" : "Southern Europe",
+        "countryName" : "Serbia",
+        "alpha3Code" : "SRB"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "SC",
+                "city" : "Mahe",
+                "zoneName" : "Indian/Mahe"
+            }
+        ],
+        "capital" : "Victoria",
+        "alpha2Code" : "SC",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Seychelles",
+        "alpha3Code" : "SYC"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "SL",
+                "city" : "Freetown",
+                "zoneName" : "Africa/Freetown"
+            }
+        ],
+        "capital" : "Freetown",
+        "alpha2Code" : "SL",
+        "subregion" : "Western Africa",
+        "countryName" : "Sierra Leone",
+        "alpha3Code" : "SLE"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "SG",
+                "city" : "Singapore",
+                "zoneName" : "Asia/Singapore"
+            }
+        ],
+        "capital" : "Singapore",
+        "alpha2Code" : "SG",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Singapore",
+        "alpha3Code" : "SGP"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "SX",
+                "city" : "Lower Princes",
+                "zoneName" : "America/Lower_Princes"
+            }
+        ],
+        "capital" : "Philipsburg",
+        "alpha2Code" : "SX",
+        "subregion" : "Caribbean",
+        "countryName" : "Sint Maarten (Dutch part)",
+        "alpha3Code" : "SXM"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "SK",
+                "city" : "Bratislava",
+                "zoneName" : "Europe/Bratislava"
+            }
+        ],
+        "capital" : "Bratislava",
+        "alpha2Code" : "SK",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Slovakia",
+        "alpha3Code" : "SVK"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "SI",
+                "city" : "Ljubljana",
+                "zoneName" : "Europe/Ljubljana"
+            }
+        ],
+        "capital" : "Ljubljana",
+        "alpha2Code" : "SI",
+        "subregion" : "Southern Europe",
+        "countryName" : "Slovenia",
+        "alpha3Code" : "SVN"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "SB",
+                "city" : "Guadalcanal",
+                "zoneName" : "Pacific/Guadalcanal"
+            }
+        ],
+        "capital" : "Honiara",
+        "alpha2Code" : "SB",
+        "subregion" : "Melanesia",
+        "countryName" : "Solomon Islands",
+        "alpha3Code" : "SLB"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "SO",
+                "city" : "Mogadishu",
+                "zoneName" : "Africa/Mogadishu"
+            }
+        ],
+        "capital" : "Mogadishu",
+        "alpha2Code" : "SO",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Somalia",
+        "alpha3Code" : "SOM"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "ZA",
+                "city" : "Johannesburg",
+                "zoneName" : "Africa/Johannesburg"
+            }
+        ],
+        "capital" : "Pretoria",
+        "alpha2Code" : "ZA",
+        "subregion" : "Southern Africa",
+        "countryName" : "South Africa",
+        "alpha3Code" : "ZAF"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "GS",
+                "city" : "South Georgia",
+                "zoneName" : "Atlantic/South_Georgia"
+            }
+        ],
+        "capital" : "King Edward Point",
+        "alpha2Code" : "GS",
+        "subregion" : "South America",
+        "countryName" : "South Georgia and the South Sandwich Islands",
+        "alpha3Code" : "SGS"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "KR",
+                "city" : "Seoul",
+                "zoneName" : "Asia/Seoul"
+            }
+        ],
+        "capital" : "Seoul",
+        "alpha2Code" : "KR",
+        "subregion" : "Eastern Asia",
+        "countryName" : "Korea (Republic of)",
+        "alpha3Code" : "KOR"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "SS",
+                "city" : "Juba",
+                "zoneName" : "Africa/Juba"
+            }
+        ],
+        "capital" : "Juba",
+        "alpha2Code" : "SS",
+        "subregion" : "Middle Africa",
+        "countryName" : "South Sudan",
+        "alpha3Code" : "SSD"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "ES",
+                "city" : "Ceuta",
+                "zoneName" : "Africa/Ceuta"
+            },
+            {
+                "countryCode" : "ES",
+                "city" : "Canary",
+                "zoneName" : "Atlantic/Canary"
+            },
+            {
+                "countryCode" : "ES",
+                "city" : "Madrid",
+                "zoneName" : "Europe/Madrid"
+            }
+        ],
+        "capital" : "Madrid",
+        "alpha2Code" : "ES",
+        "subregion" : "Southern Europe",
+        "countryName" : "Spain",
+        "alpha3Code" : "ESP"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "LK",
+                "city" : "Colombo",
+                "zoneName" : "Asia/Colombo"
+            }
+        ],
+        "capital" : "Colombo",
+        "alpha2Code" : "LK",
+        "subregion" : "Southern Asia",
+        "countryName" : "Sri Lanka",
+        "alpha3Code" : "LKA"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "SD",
+                "city" : "Khartoum",
+                "zoneName" : "Africa/Khartoum"
+            }
+        ],
+        "capital" : "Khartoum",
+        "alpha2Code" : "SD",
+        "subregion" : "Northern Africa",
+        "countryName" : "Sudan",
+        "alpha3Code" : "SDN"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "SR",
+                "city" : "Paramaribo",
+                "zoneName" : "America/Paramaribo"
+            }
+        ],
+        "capital" : "Paramaribo",
+        "alpha2Code" : "SR",
+        "subregion" : "South America",
+        "countryName" : "Suriname",
+        "alpha3Code" : "SUR"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "SJ",
+                "city" : "Longyearbyen",
+                "zoneName" : "Arctic/Longyearbyen"
+            }
+        ],
+        "capital" : "Longyearbyen",
+        "alpha2Code" : "SJ",
+        "subregion" : "Northern Europe",
+        "countryName" : "Svalbard and Jan Mayen",
+        "alpha3Code" : "SJM"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "SZ",
+                "city" : "Mbabane",
+                "zoneName" : "Africa/Mbabane"
+            }
+        ],
+        "capital" : "Lobamba",
+        "alpha2Code" : "SZ",
+        "subregion" : "Southern Africa",
+        "countryName" : "Swaziland",
+        "alpha3Code" : "SWZ"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "SE",
+                "city" : "Stockholm",
+                "zoneName" : "Europe/Stockholm"
+            }
+        ],
+        "capital" : "Stockholm",
+        "alpha2Code" : "SE",
+        "subregion" : "Northern Europe",
+        "countryName" : "Sweden",
+        "alpha3Code" : "SWE"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "CH",
+                "city" : "Zurich",
+                "zoneName" : "Europe/Zurich"
+            }
+        ],
+        "capital" : "Bern",
+        "alpha2Code" : "CH",
+        "subregion" : "Western Europe",
+        "countryName" : "Switzerland",
+        "alpha3Code" : "CHE"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "SY",
+                "city" : "Damascus",
+                "zoneName" : "Asia/Damascus"
+            }
+        ],
+        "capital" : "Damascus",
+        "alpha2Code" : "SY",
+        "subregion" : "Western Asia",
+        "countryName" : "Syrian Arab Republic",
+        "alpha3Code" : "SYR"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "TW",
+                "city" : "Taipei",
+                "zoneName" : "Asia/Taipei"
+            }
+        ],
+        "capital" : "Taipei",
+        "alpha2Code" : "TW",
+        "subregion" : "Eastern Asia",
+        "countryName" : "Taiwan",
+        "alpha3Code" : "TWN"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "TJ",
+                "city" : "Dushanbe",
+                "zoneName" : "Asia/Dushanbe"
+            }
+        ],
+        "capital" : "Dushanbe",
+        "alpha2Code" : "TJ",
+        "subregion" : "Central Asia",
+        "countryName" : "Tajikistan",
+        "alpha3Code" : "TJK"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "TZ",
+                "city" : "Dar es Salaam",
+                "zoneName" : "Africa/Dar_es_Salaam"
+            }
+        ],
+        "capital" : "Dodoma",
+        "alpha2Code" : "TZ",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Tanzania, United Republic of",
+        "alpha3Code" : "TZA"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "TH",
+                "city" : "Bangkok",
+                "zoneName" : "Asia/Bangkok"
+            }
+        ],
+        "capital" : "Bangkok",
+        "alpha2Code" : "TH",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Thailand",
+        "alpha3Code" : "THA"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "TL",
+                "city" : "Dili",
+                "zoneName" : "Asia/Dili"
+            }
+        ],
+        "capital" : "Dili",
+        "alpha2Code" : "TL",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Timor-Leste",
+        "alpha3Code" : "TLS"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "TG",
+                "city" : "Lome",
+                "zoneName" : "Africa/Lome"
+            }
+        ],
+        "capital" : "Lomé",
+        "alpha2Code" : "TG",
+        "subregion" : "Western Africa",
+        "countryName" : "Togo",
+        "alpha3Code" : "TGO"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "TK",
+                "city" : "Fakaofo",
+                "zoneName" : "Pacific/Fakaofo"
+            }
+        ],
+        "capital" : "Fakaofo",
+        "alpha2Code" : "TK",
+        "subregion" : "Polynesia",
+        "countryName" : "Tokelau",
+        "alpha3Code" : "TKL"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "TO",
+                "city" : "Tongatapu",
+                "zoneName" : "Pacific/Tongatapu"
+            }
+        ],
+        "capital" : "Nuku'alofa",
+        "alpha2Code" : "TO",
+        "subregion" : "Polynesia",
+        "countryName" : "Tonga",
+        "alpha3Code" : "TON"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "TT",
+                "city" : "Port of Spain",
+                "zoneName" : "America/Port_of_Spain"
+            }
+        ],
+        "capital" : "Port of Spain",
+        "alpha2Code" : "TT",
+        "subregion" : "Caribbean",
+        "countryName" : "Trinidad and Tobago",
+        "alpha3Code" : "TTO"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "TN",
+                "city" : "Tunis",
+                "zoneName" : "Africa/Tunis"
+            }
+        ],
+        "capital" : "Tunis",
+        "alpha2Code" : "TN",
+        "subregion" : "Northern Africa",
+        "countryName" : "Tunisia",
+        "alpha3Code" : "TUN"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "TR",
+                "city" : "Istanbul",
+                "zoneName" : "Europe/Istanbul"
+            }
+        ],
+        "capital" : "Ankara",
+        "alpha2Code" : "TR",
+        "subregion" : "Western Asia",
+        "countryName" : "Turkey",
+        "alpha3Code" : "TUR"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "TM",
+                "city" : "Ashgabat",
+                "zoneName" : "Asia/Ashgabat"
+            }
+        ],
+        "capital" : "Ashgabat",
+        "alpha2Code" : "TM",
+        "subregion" : "Central Asia",
+        "countryName" : "Turkmenistan",
+        "alpha3Code" : "TKM"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "TC",
+                "city" : "Grand Turk",
+                "zoneName" : "America/Grand_Turk"
+            }
+        ],
+        "capital" : "Cockburn Town",
+        "alpha2Code" : "TC",
+        "subregion" : "Caribbean",
+        "countryName" : "Turks and Caicos Islands",
+        "alpha3Code" : "TCA"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "TV",
+                "city" : "Funafuti",
+                "zoneName" : "Pacific/Funafuti"
+            }
+        ],
+        "capital" : "Funafuti",
+        "alpha2Code" : "TV",
+        "subregion" : "Polynesia",
+        "countryName" : "Tuvalu",
+        "alpha3Code" : "TUV"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "UG",
+                "city" : "Kampala",
+                "zoneName" : "Africa/Kampala"
+            }
+        ],
+        "capital" : "Kampala",
+        "alpha2Code" : "UG",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Uganda",
+        "alpha3Code" : "UGA"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "UA",
+                "city" : "Kiev",
+                "zoneName" : "Europe/Kiev"
+            },
+            {
+                "countryCode" : "UA",
+                "city" : "Simferopol",
+                "zoneName" : "Europe/Simferopol"
+            },
+            {
+                "countryCode" : "UA",
+                "city" : "Uzhgorod",
+                "zoneName" : "Europe/Uzhgorod"
+            },
+            {
+                "countryCode" : "UA",
+                "city" : "Zaporozhye",
+                "zoneName" : "Europe/Zaporozhye"
+            }
+        ],
+        "capital" : "Kiev",
+        "alpha2Code" : "UA",
+        "subregion" : "Eastern Europe",
+        "countryName" : "Ukraine",
+        "alpha3Code" : "UKR"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "AE",
+                "city" : "Dubai",
+                "zoneName" : "Asia/Dubai"
+            }
+        ],
+        "capital" : "Abu Dhabi",
+        "alpha2Code" : "AE",
+        "subregion" : "Western Asia",
+        "countryName" : "United Arab Emirates",
+        "alpha3Code" : "ARE"
+    },
+    {
+        "region" : "Europe",
+        "timezones" : [
+            {
+                "countryCode" : "GB",
+                "city" : "London",
+                "zoneName" : "Europe/London"
+            }
+        ],
+        "capital" : "London",
+        "alpha2Code" : "GB",
+        "subregion" : "Northern Europe",
+        "countryName" : "United Kingdom of Great Britain and Northern Ireland",
+        "alpha3Code" : "GBR"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "US",
+                "city" : "Adak",
+                "zoneName" : "America/Adak"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Anchorage",
+                "zoneName" : "America/Anchorage"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Boise",
+                "zoneName" : "America/Boise"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Chicago",
+                "zoneName" : "America/Chicago"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Denver",
+                "zoneName" : "America/Denver"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Detroit",
+                "zoneName" : "America/Detroit"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Indianapolis",
+                "zoneName" : "America/Indiana/Indianapolis"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Knox",
+                "zoneName" : "America/Indiana/Knox"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Marengo",
+                "zoneName" : "America/Indiana/Marengo"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Petersburg",
+                "zoneName" : "America/Indiana/Petersburg"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Tell City",
+                "zoneName" : "America/Indiana/Tell_City"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Vevay",
+                "zoneName" : "America/Indiana/Vevay"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Vincennes",
+                "zoneName" : "America/Indiana/Vincennes"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Winamac",
+                "zoneName" : "America/Indiana/Winamac"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Juneau",
+                "zoneName" : "America/Juneau"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Louisville",
+                "zoneName" : "America/Kentucky/Louisville"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Monticello",
+                "zoneName" : "America/Kentucky/Monticello"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Los Angeles",
+                "zoneName" : "America/Los_Angeles"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Menominee",
+                "zoneName" : "America/Menominee"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Metlakatla",
+                "zoneName" : "America/Metlakatla"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "New York",
+                "zoneName" : "America/New_York"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Nome",
+                "zoneName" : "America/Nome"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Beulah",
+                "zoneName" : "America/North_Dakota/Beulah"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Center",
+                "zoneName" : "America/North_Dakota/Center"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "New Salem",
+                "zoneName" : "America/North_Dakota/New_Salem"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Phoenix",
+                "zoneName" : "America/Phoenix"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Shiprock",
+                "zoneName" : "America/Shiprock"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Sitka",
+                "zoneName" : "America/Sitka"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Yakutat",
+                "zoneName" : "America/Yakutat"
+            },
+            {
+                "countryCode" : "US",
+                "city" : "Honolulu",
+                "zoneName" : "Pacific/Honolulu"
+            }
+        ],
+        "capital" : "Washington, D.C.",
+        "alpha2Code" : "US",
+        "subregion" : "Northern America",
+        "countryName" : "United States of America",
+        "alpha3Code" : "USA"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "UY",
+                "city" : "Montevideo",
+                "zoneName" : "America/Montevideo"
+            }
+        ],
+        "capital" : "Montevideo",
+        "alpha2Code" : "UY",
+        "subregion" : "South America",
+        "countryName" : "Uruguay",
+        "alpha3Code" : "URY"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "UZ",
+                "city" : "Samarkand",
+                "zoneName" : "Asia/Samarkand"
+            },
+            {
+                "countryCode" : "UZ",
+                "city" : "Tashkent",
+                "zoneName" : "Asia/Tashkent"
+            }
+        ],
+        "capital" : "Tashkent",
+        "alpha2Code" : "UZ",
+        "subregion" : "Central Asia",
+        "countryName" : "Uzbekistan",
+        "alpha3Code" : "UZB"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "VU",
+                "city" : "Efate",
+                "zoneName" : "Pacific/Efate"
+            }
+        ],
+        "capital" : "Port Vila",
+        "alpha2Code" : "VU",
+        "subregion" : "Melanesia",
+        "countryName" : "Vanuatu",
+        "alpha3Code" : "VUT"
+    },
+    {
+        "region" : "Americas",
+        "timezones" : [
+            {
+                "countryCode" : "VE",
+                "city" : "Caracas",
+                "zoneName" : "America/Caracas"
+            }
+        ],
+        "capital" : "Caracas",
+        "alpha2Code" : "VE",
+        "subregion" : "South America",
+        "countryName" : "Venezuela (Bolivarian Republic of)",
+        "alpha3Code" : "VEN"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "VN",
+                "city" : "Ho Chi Minh",
+                "zoneName" : "Asia/Ho_Chi_Minh"
+            }
+        ],
+        "capital" : "Hanoi",
+        "alpha2Code" : "VN",
+        "subregion" : "South-Eastern Asia",
+        "countryName" : "Viet Nam",
+        "alpha3Code" : "VNM"
+    },
+    {
+        "region" : "Oceania",
+        "timezones" : [
+            {
+                "countryCode" : "WF",
+                "city" : "Wallis",
+                "zoneName" : "Pacific/Wallis"
+            }
+        ],
+        "capital" : "Mata-Utu",
+        "alpha2Code" : "WF",
+        "subregion" : "Polynesia",
+        "countryName" : "Wallis and Futuna",
+        "alpha3Code" : "WLF"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "EH",
+                "city" : "El Aaiun",
+                "zoneName" : "Africa/El_Aaiun"
+            }
+        ],
+        "capital" : "El Aaiún",
+        "alpha2Code" : "EH",
+        "subregion" : "Northern Africa",
+        "countryName" : "Western Sahara",
+        "alpha3Code" : "ESH"
+    },
+    {
+        "region" : "Asia",
+        "timezones" : [
+            {
+                "countryCode" : "YE",
+                "city" : "Aden",
+                "zoneName" : "Asia/Aden"
+            }
+        ],
+        "capital" : "Sana'a",
+        "alpha2Code" : "YE",
+        "subregion" : "Western Asia",
+        "countryName" : "Yemen",
+        "alpha3Code" : "YEM"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "ZM",
+                "city" : "Lusaka",
+                "zoneName" : "Africa/Lusaka"
+            }
+        ],
+        "capital" : "Lusaka",
+        "alpha2Code" : "ZM",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Zambia",
+        "alpha3Code" : "ZMB"
+    },
+    {
+        "region" : "Africa",
+        "timezones" : [
+            {
+                "countryCode" : "ZW",
+                "city" : "Harare",
+                "zoneName" : "Africa/Harare"
+            }
+        ],
+        "capital" : "Harare",
+        "alpha2Code" : "ZW",
+        "subregion" : "Eastern Africa",
+        "countryName" : "Zimbabwe",
+        "alpha3Code" : "ZWE"
+    }
+]
